@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>KeepItDark</AssemblyName>
+    <RootNamespace>KeepItDark</RootNamespace>
+    <Version>1.0.0</Version>
+    <TargetFramework>net6.0</TargetFramework> <!-- Updated for modern Stardew 1.6+ -->
+    <EnableHarmony>true</EnableHarmony> <!-- Keeping this since it's useful -->
+    <GamePath>C:\XboxGames\Stardew Valley</GamePath> <!-- YOUR path is here! -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" /> <!-- Bumped to latest -->
+  </ItemGroup>
+
+</Project>
