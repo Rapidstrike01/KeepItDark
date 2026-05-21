@@ -1,0 +1,10 @@
+﻿{
+  "Name": "KeeItDark",
+  "Author": "Rapidstrike001",
+  "Version": "1.0.0",
+  "Description": "Mod Template",
+  "UniqueID": "Rapidstrike001.KeepItDark",
+  "EntryDll": "KeepItDark.dll",
+  "MinimumApiVersion": "2.11",
+  "UpdateKeys": [ "Nexus:" ]
+}
